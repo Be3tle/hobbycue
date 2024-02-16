@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div className="container row bg-light">
       {/* 1 */}
-      <div className="col-lg-5">
+      <div className="col-lg-5 mb-4">
         <Card style={{ width: '18rem' }}>
           <Card.Body>
             <Card.Title>Card Title</Card.Title>
@@ -22,7 +22,7 @@ const Home = () => {
       </div>
 
       {/* 2 */}
-      <div className="col-lg-5">
+      <div className="col-lg-5 mb-4">
         <Card style={{ width: '18rem' }}>
           <Card.Body>
             <Card.Title>Card Title</Card.Title>
@@ -40,7 +40,7 @@ const Home = () => {
       </div>
 
       {/* 3 */}
-      <div className="col-lg-5">
+      <div className="col-lg-5 mb-4">
         <Card style={{ width: '18rem' }}>
           <Card.Body>
             <Card.Title>Card Title</Card.Title>
@@ -58,7 +58,7 @@ const Home = () => {
       </div>
 
       {/* 4 */}
-      <div className="col-lg-5">
+      <div className="col-lg-5 mb-4">
         <Card style={{ width: '18rem' }}>
           <Card.Body>
             <Card.Title>Card Title</Card.Title>
