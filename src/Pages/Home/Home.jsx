@@ -22,7 +22,7 @@ const Home = () => {
       </div>
 
       {/* 2 */}
-      <div className="">
+      <div className="col-lg-3">
         <Card style={{ width: '18rem' }}>
           <Card.Body>
             <Card.Title>Card Title</Card.Title>
